@@ -1,0 +1,41 @@
+[
+  {
+    "title" : "Photo of myself",
+    "photo" : "IMG1234.jpg",
+    "description" : "My beautiful photo of myself in a room of roses",
+    "time_posted": "January 1, 2001",
+    "total_likes": "55",
+    "total_comments": "12",
+    "author": {
+      "_id": "637225698b6496efa8df868a",
+      "profile_picture": "photo.jpg",
+      "user_name": "johnnieDoe97"
+    }
+  },
+  {
+    "title": "Photo of my Pet",
+    "photo": "IMG4321.jpg",
+    "description": "My beautiful photo of my pet in a room of food",
+    "time_posted": "December 12, 2012",
+    "total_likes": "102",
+    "total_comments": "1",
+    "author": {
+      "_id": "637225698b6496efa8df868a",
+      "profile_picture": "photo2012.jpg",
+      "user_name": "johnnieDoe97"
+    }
+  },
+  {
+    "title": "Photo of my Sunshine",
+    "photo": "IMG5854.jpg",
+    "description": "The beautiful photo of the sunshine in my hotel room",
+    "time_posted": "June 12, 2006",
+    "total_likes": "15",
+    "total_comments": "12",
+    "author": {
+      "_id": "637225698b6496efa8df868a",
+      "profile_picture": "photo2006.jpg",
+      "user_name": "johnnieDoe97"
+    }
+  }
+]
